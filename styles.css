@@ -1,0 +1,31 @@
+h1 {
+  font-size: 50px;
+}
+p {
+  font-size: 20px;
+}
+li {
+  font-size: 18px;
+}
+#code {
+  background-color: antiquewhite;
+  width: 300px;
+}
+
+span {
+  font-weight: bold;
+}
+
+div {
+  border-bottom: 1px solid #000000;
+  width: 500px;
+  padding-bottom: 10px;
+}
+td {
+  padding: 8px;
+}
+body {
+  width: 1024px;
+  background-color: rgba(240, 213, 213, 0.2);
+  margin: 0 auto;
+}
