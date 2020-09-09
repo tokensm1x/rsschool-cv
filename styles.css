@@ -12,9 +12,6 @@ li {
   width: 300px;
 }
 
-html {
-  margin-left: 80px;
-}
 span {
   font-weight: bold;
 }
@@ -28,5 +25,7 @@ td {
   padding: 8px;
 }
 body {
+  width: 1024px;
   background-color: rgba(240, 213, 213, 0.2);
+  margin: 0 auto;
 }
