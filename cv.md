@@ -18,12 +18,12 @@
         * Webpack
         * OOP
 ## Projects :
-        [Covid DashBoard 500px](https://rolling-scopes-school.github.io/tokensm1x-JS2020Q3/covid19/)
-        [English for kids](https://rolling-scopes-school.github.io/tokensm1x-JS2020Q3/english/)
-        [Gem-puzzle](https://rolling-scopes-school.github.io/tokensm1x-JS2020Q3/gem-puzzle/)
-        [Virtual Keyboard 500px](https://rolling-scopes-school.github.io/tokensm1x-JS2020Q3/keyboard/)
-        [Shelter](https://rolling-scopes-school.github.io/tokensm1x-JS2020Q3/shelter/pages/main/main.html)
-        [Momentum](https://rolling-scopes-school.github.io/tokensm1x-JS2020Q3/momentum/)
+        *   [Covid DashBoard 500px](https://rolling-scopes-school.github.io/tokensm1x-JS2020Q3/covid19/)
+        *   [English for kids](https://rolling-scopes-school.github.io/tokensm1x-JS2020Q3/english/)
+        *   [Gem-puzzle](https://rolling-scopes-school.github.io/tokensm1x-JS2020Q3/gem-puzzle/)
+        *   [Virtual Keyboard 500px](https://rolling-scopes-school.github.io/tokensm1x-JS2020Q3/keyboard/)
+        *   [Shelter](https://rolling-scopes-school.github.io/tokensm1x-JS2020Q3/shelter/pages/main/main.html)
+        *   [Momentum](https://rolling-scopes-school.github.io/tokensm1x-JS2020Q3/momentum/)
 ## Education :
         * 2015-2017: GSU F Scorini - programmer
         * 2017-2018: Gomel State Professional Technical College of Culinary - cook
