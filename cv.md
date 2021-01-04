@@ -18,7 +18,7 @@
         * Webpack
         * OOP
 ## Projects :
-        https://rolling-scopes-school.github.io/tokensm1x-JS2020Q3/covid19/
+        [Covid DashBoard 500px](https://rolling-scopes-school.github.io/tokensm1x-JS2020Q3/covid19/)
         [English for kids](https://rolling-scopes-school.github.io/tokensm1x-JS2020Q3/english/)
         [Gem-puzzle](https://rolling-scopes-school.github.io/tokensm1x-JS2020Q3/gem-puzzle/)
         [Virtual Keyboard 500px](https://rolling-scopes-school.github.io/tokensm1x-JS2020Q3/keyboard/)
